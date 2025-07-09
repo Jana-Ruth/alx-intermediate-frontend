@@ -1,0 +1,12 @@
+$margin-f0r-body:10px;
+$margin-for-div:15px;
+
+body {
+  margin-left: $margin-f0r-body;
+  margin-right: $margin-f0r-body; 
+}
+
+div {
+  margin-left: $margin-for-div;
+  margin-right: $margin-for-div;
+ }
